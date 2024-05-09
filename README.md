@@ -1,5 +1,5 @@
 ## 📝 ENSF 692 - Assignment 1 Tasks
-## Strahinja Radakovic
+## Strahinja Radakovic 
 ## Inspirational Quote: Don’t count the days, make the days count.
 * Open VSCode and start a new terminal. 
 * Edit this `README` file to add your first and last name, and your favourite inspirational quote.
